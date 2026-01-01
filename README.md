@@ -1,6 +1,6 @@
-# awesome-thinking-cards
+# Awesome Thinking Cards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Covers method cards, problem-solving prompts, creativity decks, and conceptual tools used across design, engineering, education, and knowledge work to support reflection, exploration, and decision-making.
+> Covers method cards, problem-solving prompts, creativity decks, and conceptual tools used across design, engineering, education, and knowledge work to support reflection, exploration, and decision-making.
 
 ## Contents
 
