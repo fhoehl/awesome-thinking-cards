@@ -7,11 +7,18 @@
 - [Creativity](#creativity)
 - [Computer Science](#computer-science)
 - [Unbound book](#unbound-book)
+- [Innovation](#innovation)
 
 ### Creativity
 
 - [Oblique Strategies](https://enoshop.co.uk/products/oblique-strategies?variant=51221629501780). Brian Eno and Peter Schmidt's famous deck for breaking creative blocks.
 - [intùiti](https://sefirot.it/intuiti-creative-cards). A synthesis of Design, Tarot and Gestalt Psychology.
+- [Instant Archetypes](https://superflux.in/index.php/and-now-for-something-completely-different/#). A toolkit to imagine plural futures.
+
+### Innovation
+
+- [idk](https://productivediscomfort.org). idk is the first training tool for productive discomfort.
+- [The Play Cards](https://wb40podcast.com/product/the-play-cards/). A set of playing cards to improve your innovation potential.
 
 ### Computer Science
 
