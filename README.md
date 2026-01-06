@@ -19,6 +19,10 @@
 
 - [idk](https://productivediscomfort.org). idk is the first training tool for productive discomfort.
 - [The Play Cards](https://wb40podcast.com/product/the-play-cards/). A set of playing cards to improve your innovation potential.
+- [The Tarot Cards of Tech](https://www.artefactgroup.com/resources/the-tarot-cards-of-tech/). Are we designing products that support the world we all want to live in?
+- [Behavior Change Strategy Cards](https://www.artefactgroup.com/resources/behavior-change-strategy-cards/). The cards help designers be more mindful of how our work influences behavior.
+- [Artefact Cards](https://artefactshop.com). Create, Connect, Reorder.
+- [KiCK CARDS](https://www.kick.cards). A smart, creative innovation and discussion tool for making businesses better.
 
 ### Computer Science
 
